@@ -4,4 +4,3 @@ Digital sandbox for EU Digital Identity Wallet (EUDIW) in Norway by Digitaliseri
 
 Do you want to join? Look here https://docs.digdir.no/docs/lommebok/lommebok_om.html.
 
-Code: [repositories](repositories/)
